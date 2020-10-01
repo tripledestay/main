@@ -1,0 +1,6 @@
+### Variable Conversion####
+###str in the print fuction statement
+length = 10
+width = 5
+Area = length * width
+print("The Size of the size of the square is " + str(Area))
