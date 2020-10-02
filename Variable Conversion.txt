@@ -4,3 +4,12 @@ length = 10
 width = 5
 Area = length * width
 print("The Size of the size of the square is " + str(Area))
+
+total = 2048 + 4357 + 97658 + 125 + 8
+files = 5
+average = total / files
+print("The average size is: " + str(average))
+
+Implicit vs Explicit Conversion
+Implicit happens by default.  Float and interger is an example.  String cannot be automatically converted.
+Explicit needs to be defined like str function above

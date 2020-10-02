@@ -1,0 +1,8 @@
+##### Function ###
+def mountrushmore(player1, player2, player3, player4, player5):
+	print("DeShaon Taylor's mountrushmore of basketball is " + player1 + player2 + player2 + player4 + player5 )
+	
+mountrushmore("Jordon ", "Lebron ", "Kareem ", "Kobe ", "Duncun ")
+
+Output: 
+DeShaon Taylor's mountrushmore of basketball is Jordon Lebron Lebron Kobe Duncun 
