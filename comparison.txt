@@ -1,0 +1,20 @@
+### Comparison
+##Greater Than
+print(10 < 1)
+
+##output:
+##False
+
+Equal to
+print("cat" == "cat")
+
+output:
+True
+
+print("cat" == "Cat")
+
+output:
+False
+
+not equal to
+print("cat" != "Cat")

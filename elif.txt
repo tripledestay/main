@@ -1,0 +1,11 @@
+######Branching with the elif
+
+def username(username):
+	if len(username) < 4:
+		print("Your username is too small")
+	elif len(username) > 15:
+	  print("Your username is too Big")
+	else:
+	  print("You username is valid")
+		
+username("deshaonlamartaylor")

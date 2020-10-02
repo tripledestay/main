@@ -1,0 +1,9 @@
+###Modulo Operator = %
+##This operator give you the remainder of two numbers
+
+Integet division between 5 and 2 is the quotient 2 and the remainder is 1
+
+def even_num(number)
+	if number 2 == 0	
+		return True
+	Return False

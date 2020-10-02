@@ -1,6 +1,7 @@
 ####Variables###
 # Names to Values.  Variable Assignment
-
+## Must start with letter or under score
+### Cant use special charactars and is case sensative
 length = 10
 width = 5
 Area = length * width

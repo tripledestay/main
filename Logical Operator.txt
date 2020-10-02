@@ -1,0 +1,18 @@
+#### Logical Operator#####
+
+### and / or / not
+
+print("cat" == "cat" and "dog" == "dog")
+
+output:
+True
+
+print("cat" == "cat" or "dog" == "cat")
+
+output:
+True
+
+print(not "cat" == "cat")
+
+output:
+False
