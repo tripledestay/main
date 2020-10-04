@@ -6,3 +6,6 @@ print(4+4)
 Use Python to calculate (((1+2)*3)/4)^5 
 
 print((((1+2)*3)/4)**5)
+
+
+Change for class
