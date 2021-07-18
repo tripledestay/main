@@ -10,4 +10,19 @@ https://git-scm.com/doc
 $git config --global user.email "dtaylor@itinfosource.com"
 $git config --global user.name "dtaylor@itinfosource.com"
 
+Make repository 
+$git --version
+$mkdir newrespository
+$cd newrespository
+$git init
+$touch code.py
+$git add code.py
+$git status
+$git commit
 
+Modify State then Commit is a 3 stage process
+$nano deshaon.py
+$git add deshaon.py
+$git commit -m 'updated the files for the test'
+
+$git config -l
