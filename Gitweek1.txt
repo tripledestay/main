@@ -1,0 +1,13 @@
+GIT WEEK 1
+Use the diff command to see the difference between two versions of code.
+$diff deshaon1.py deshaon2.py 
+$diff -u deshaon1.py deshaon2.py     
+Note: -u better format more context.
+$diff -u deshaon1.py deshaon2.py > change.diff
+$patch deshaon1.py < change.diff
+	Note: patch command changes the file with input 
+https://git-scm.com/doc
+$git config --global user.email "dtaylor@itinfosource.com"
+$git config --global user.name "dtaylor@itinfosource.com"
+
+
